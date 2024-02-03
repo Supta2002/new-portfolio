@@ -1,0 +1,92 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* nav related style  */
+nav {
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+}
+
+.nav-title {
+    text-align: right;
+    padding: 200px 150px 300px 850px;
+
+}
+
+.nav-head {
+    width: 525px;
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.nav-des {
+    width: 494px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.primary-btn {
+    border-radius: 5px;
+    background: #FFF;
+    width: 160px;
+    height: 64px;
+    margin-right: 100px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+/* main section style */
+
+.sec {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin: 200px;
+
+}
+
+.sec-des ol>li {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    width: 416px;
+}
+
+.sec-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    width: 288px;
+}
+
+.sec section {
+    margin: 200px;
+}
+
+.sec-des {
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+.skills-title {
+    text-align: center;
+    margin-bottom: 63px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.skills {
+    display: flex;
+    /* gap: 100px; */
+    justify-content: space-between;
+    margin: 50px 280px 130px 280px;
+}
