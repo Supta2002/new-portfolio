@@ -86,7 +86,32 @@ nav {
 
 .skills {
     display: flex;
-    /* gap: 100px; */
     justify-content: space-between;
+}
+
+.skills-container {
+
     margin: 50px 280px 130px 280px;
+
+}
+
+.mind {
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    margin: 230px;
+    border-radius: 8px;
+    width: 1140px;
+
+
+}
+
+.mind-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.mind-box {
+     padding: 60px;
 }
