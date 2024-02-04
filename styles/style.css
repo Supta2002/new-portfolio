@@ -113,5 +113,60 @@ nav {
 }
 
 .mind-box {
-     padding: 60px;
+    padding: 60px;
+}
+
+/* footer related style  */
+footer {
+    background: #151414;
+    display: flex;
+    justify-content: space-between;
+    gap: 330px;
+    padding: 130px 230px;
+    margin-top: 130px;
+}
+
+.footer-head {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.footer-des {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.footer-title {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+input {
+    background: #151414;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    width: 325px;
+    height: 64px;
+}
+
+.social>a {
+    margin-right: 15px;
+}
+
+.btn {
+    border-radius: 4px;
+    background: #005FAC;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    width: 170.106px;
+    height: 64px;
+
 }
